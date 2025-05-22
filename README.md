@@ -86,7 +86,7 @@
 
 #### Подготовка к установке
 
-1. Скачайте ISO-образ Debian 12 с официального сайта: https://www.debian.org/download
+1. Скачайте ISO-образ Debian 12 с официального сайта: https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.11.0-amd64-DVD-1.iso
 2. В VirtualBox выберите виртуальную машину k8s-master
 3. Нажмите "Настроить" -> "Хранение"
 4. В разделе "Контроллер IDE" выберите пустой диск
